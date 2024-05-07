@@ -1,3 +1,3 @@
-manzana 
-pera
-fresa
+manzanas
+peras
+platanos
