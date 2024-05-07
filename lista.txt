@@ -1,2 +1,4 @@
-manzanas 
+manzanas
 peras
+platanos
+cagonto
